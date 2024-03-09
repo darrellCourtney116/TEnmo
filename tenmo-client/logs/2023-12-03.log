@@ -1,0 +1,17 @@
+2023-12-03T18:18:47.8798245 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-12-03T18:22:07.2579277 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-12-03T22:20:22.0387259 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-12-03T22:20:30.7164834 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-12-03T22:25:03.3346961 401 : [no body]
+2023-12-03T22:25:19.7839298 404 : [{"timestamp":"2023-12-04T04:25:19.779+00:00","status":404,"error":"Not Found","message":"No message available","path":"/balance"}]
+2023-12-03T22:28:40.8182363 500 : [{"timestamp":"2023-12-04T04:28:40.790+00:00","status":500,"error":"Internal Server Error","message":"User registration failed.","path":"/register"}]
+2023-12-03T22:30:10.3512343 500 : [{"timestamp":"2023-12-04T04:30:10.290+00:00","status":500,"error":"Internal Server Error","message":"User registration failed.","path":"/register"}]
+2023-12-03T22:31:29.7740544 500 : [{"timestamp":"2023-12-04T04:31:29.689+00:00","status":500,"error":"Internal Server Error","message":"User registration failed.","path":"/register"}]
+2023-12-03T22:32:05.2886778 500 : [{"timestamp":"2023-12-04T04:32:05.286+00:00","status":500,"error":"Internal Server Error","message":"User registration failed.","path":"/register"}]
+2023-12-03T22:32:14.6181493 404 : [{"timestamp":"2023-12-04T04:32:14.595+00:00","status":404,"error":"Not Found","message":"No message available","path":"/balance"}]
+2023-12-03T22:37:24.6221045 404 : [{"timestamp":"2023-12-04T04:37:24.582+00:00","status":404,"error":"Not Found","message":"No message available","path":"/balance"}]
+2023-12-03T22:38:30.7993004 404 : [{"timestamp":"2023-12-04T04:38:30.769+00:00","status":404,"error":"Not Found","message":"No message available","path":"/balance"}]
+2023-12-03T22:55:38.6095755 404 : [{"timestamp":"2023-12-04T04:55:38.557+00:00","status":404,"error":"Not Found","message":"No message available","path":"/balance"}]
+2023-12-03T22:58:10.5451727 404 : [{"timestamp":"2023-12-04T04:58:10.490+00:00","status":404,"error":"Not Found","message":"No message available","path":"/balance"}]
+2023-12-03T23:00:58.5352071 404 : [{"timestamp":"2023-12-04T05:00:58.507+00:00","status":404,"error":"Not Found","message":"No message available","path":"/balance"}]
+2023-12-03T23:04:12.7247658 404 : [{"timestamp":"2023-12-04T05:04:12.677+00:00","status":404,"error":"Not Found","message":"No message available","path":"/balance"}]
